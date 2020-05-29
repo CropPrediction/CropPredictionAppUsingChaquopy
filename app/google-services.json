@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "484359593752",
+    "firebase_url": "https://crop-prediction-app.firebaseio.com",
+    "project_id": "crop-prediction-app",
+    "storage_bucket": "crop-prediction-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:484359593752:android:0c978e58bd4cc731ff886d",
+        "android_client_info": {
+          "package_name": "com.example.croppredictionapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "484359593752-pbar8bmdqmeebgc0g395tq448jo4obqb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.croppredictionapp",
+            "certificate_hash": "d4e08ad46008cc1fa6c9e9c4328ddbca25deb73b"
+          }
+        },
+        {
+          "client_id": "484359593752-nufkagtl68ct6agc5vr090mgbr5vepo9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0lIzRrdY7KH6hzlk9_JiCyaQhpw8oikU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "484359593752-nufkagtl68ct6agc5vr090mgbr5vepo9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
